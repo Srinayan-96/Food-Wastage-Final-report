@@ -1,0 +1,191 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+
+
+body, h1, h2, p {
+    font-style:italic;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+
+    background-color: rgb(194, 217, 229);
+    background-image: url(Backkkkk.jpeg);
+    height: 100vh;
+    background-position: center;
+    background-repeat:repeat;
+    background-size:cover;
+    width: 100vw;
+    
+    
+
+    
+
+
+    
+}
+
+
+header {
+    background-color:rgb(31, 104, 31);
+    color: rgb(241, 187, 80);
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-style:italic;
+    font-size: 2em;
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color:rgb(229, 229, 236);
+    text-decoration: none;
+}
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: rgb(5, 74, 5);
+    text-align: center;
+    padding: 10px 0;
+}
+div *{
+    color:#fff;
+}
+.tag{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+ p{
+    font-family: 'Roboto', sans-serif;
+    color:rgb(3, 2, 2);
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.poor{
+    
+    margin-left:100px;
+    
+    
+}
+.tagline{
+    color:rgb(32, 93, 3);
+    text-align: center;
+}
+.two{
+    color: rgb(169, 243, 169);
+}
+.one{
+    color:  rgb(10, 46, 253);
+}
+.foot{
+    color: rgb(249, 167, 15);
+}
+img{
+    height:30%;
+    width: 20%;
+    margin-left: 500px;
+}
+.quote{
+    color: blue;
+}
+.causes{
+    color:rgb(16, 1, 1);
+}
+#cofw{
+    height: 50%;
+    width: 50%;
+    margin-left: 450px;
+}
+.aspects{
+    color:green;
+}
+span{
+    color:green;
+}
+span.twoo{
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    font-weight: 700;
+    color:rgb(8, 0, 0);
+    font-size: 30px;
+    font-size: 18px;
+}
+span.threee{
+    color: rgb(220, 7, 220);
+}
+span.ten{
+    font-size: medium;
+}
+.mone{
+    height: 50%;
+    width: 50%;
+    margin-bottom:10px;
+    margin-left: 450px;
+}
+.mtwo{
+    height: 50%;
+    width: 50%;
+    margin-left:450px;
+}
+.spm{
+    color:blue
+}
+.eh{
+    color: green;
+}
+h4, p {
+     display: inline;
+}
+.sec{
+    font-size: 50px;
+}
+h4{
+    color:rgb(255, 147, 16);
+}
+.hwo{
+    height: 50%;
+    width: 50%;
+    margin-left: 450px;
+    margin-bottom: 5px;
+}
+.whg{
+    height: 50%;
+    width:50%;
+    margin-left: 450px;
+    margin-top: 5px;
+}
+.imge{
+    height: 50%;
+    width: 50%;
+    margin-left: 450px;
+}
+.imgoo{
+    height: 50%;
+    width: 50%;
+    margin-left: 450px;   
+}
